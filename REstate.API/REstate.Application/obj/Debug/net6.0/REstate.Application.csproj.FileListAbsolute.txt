@@ -1,0 +1,12 @@
+C:\Users\panka\source\repos\REstate.API\REstate.Application\bin\Debug\net6.0\REstate.Application.deps.json
+C:\Users\panka\source\repos\REstate.API\REstate.Application\bin\Debug\net6.0\REstate.Application.dll
+C:\Users\panka\source\repos\REstate.API\REstate.Application\bin\Debug\net6.0\REstate.Application.pdb
+C:\Users\panka\source\repos\REstate.API\REstate.Application\obj\Debug\net6.0\REstate.Application.csproj.AssemblyReference.cache
+C:\Users\panka\source\repos\REstate.API\REstate.Application\obj\Debug\net6.0\REstate.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panka\source\repos\REstate.API\REstate.Application\obj\Debug\net6.0\REstate.Application.AssemblyInfoInputs.cache
+C:\Users\panka\source\repos\REstate.API\REstate.Application\obj\Debug\net6.0\REstate.Application.AssemblyInfo.cs
+C:\Users\panka\source\repos\REstate.API\REstate.Application\obj\Debug\net6.0\REstate.Application.csproj.CoreCompileInputs.cache
+C:\Users\panka\source\repos\REstate.API\REstate.Application\obj\Debug\net6.0\REstate.Application.dll
+C:\Users\panka\source\repos\REstate.API\REstate.Application\obj\Debug\net6.0\refint\REstate.Application.dll
+C:\Users\panka\source\repos\REstate.API\REstate.Application\obj\Debug\net6.0\REstate.Application.pdb
+C:\Users\panka\source\repos\REstate.API\REstate.Application\obj\Debug\net6.0\ref\REstate.Application.dll

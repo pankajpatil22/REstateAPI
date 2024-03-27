@@ -1,0 +1,12 @@
+C:\Users\panka\source\repos\REstate.API\REstate.Infrastructure\bin\Debug\net6.0\REstate.Infrastructure.deps.json
+C:\Users\panka\source\repos\REstate.API\REstate.Infrastructure\bin\Debug\net6.0\REstate.Infrastructure.dll
+C:\Users\panka\source\repos\REstate.API\REstate.Infrastructure\bin\Debug\net6.0\REstate.Infrastructure.pdb
+C:\Users\panka\source\repos\REstate.API\REstate.Infrastructure\obj\Debug\net6.0\REstate.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\panka\source\repos\REstate.API\REstate.Infrastructure\obj\Debug\net6.0\REstate.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panka\source\repos\REstate.API\REstate.Infrastructure\obj\Debug\net6.0\REstate.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\panka\source\repos\REstate.API\REstate.Infrastructure\obj\Debug\net6.0\REstate.Infrastructure.AssemblyInfo.cs
+C:\Users\panka\source\repos\REstate.API\REstate.Infrastructure\obj\Debug\net6.0\REstate.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\panka\source\repos\REstate.API\REstate.Infrastructure\obj\Debug\net6.0\REstate.Infrastructure.dll
+C:\Users\panka\source\repos\REstate.API\REstate.Infrastructure\obj\Debug\net6.0\refint\REstate.Infrastructure.dll
+C:\Users\panka\source\repos\REstate.API\REstate.Infrastructure\obj\Debug\net6.0\REstate.Infrastructure.pdb
+C:\Users\panka\source\repos\REstate.API\REstate.Infrastructure\obj\Debug\net6.0\ref\REstate.Infrastructure.dll

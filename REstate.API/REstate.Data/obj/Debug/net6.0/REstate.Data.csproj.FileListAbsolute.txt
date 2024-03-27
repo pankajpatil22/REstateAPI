@@ -1,0 +1,14 @@
+C:\Users\panka\source\repos\REstate.API\REstate.Data\bin\Debug\net6.0\REstate.Data.deps.json
+C:\Users\panka\source\repos\REstate.API\REstate.Data\bin\Debug\net6.0\REstate.Data.runtimeconfig.json
+C:\Users\panka\source\repos\REstate.API\REstate.Data\bin\Debug\net6.0\REstate.Data.dll
+C:\Users\panka\source\repos\REstate.API\REstate.Data\bin\Debug\net6.0\REstate.Data.pdb
+C:\Users\panka\source\repos\REstate.API\REstate.Data\obj\Debug\net6.0\REstate.Data.csproj.AssemblyReference.cache
+C:\Users\panka\source\repos\REstate.API\REstate.Data\obj\Debug\net6.0\REstate.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panka\source\repos\REstate.API\REstate.Data\obj\Debug\net6.0\REstate.Data.AssemblyInfoInputs.cache
+C:\Users\panka\source\repos\REstate.API\REstate.Data\obj\Debug\net6.0\REstate.Data.AssemblyInfo.cs
+C:\Users\panka\source\repos\REstate.API\REstate.Data\obj\Debug\net6.0\REstate.Data.csproj.CoreCompileInputs.cache
+C:\Users\panka\source\repos\REstate.API\REstate.Data\obj\Debug\net6.0\REstate.Data.dll
+C:\Users\panka\source\repos\REstate.API\REstate.Data\obj\Debug\net6.0\refint\REstate.Data.dll
+C:\Users\panka\source\repos\REstate.API\REstate.Data\obj\Debug\net6.0\REstate.Data.pdb
+C:\Users\panka\source\repos\REstate.API\REstate.Data\obj\Debug\net6.0\REstate.Data.genruntimeconfig.cache
+C:\Users\panka\source\repos\REstate.API\REstate.Data\obj\Debug\net6.0\ref\REstate.Data.dll
